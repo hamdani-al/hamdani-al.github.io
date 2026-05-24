@@ -29,16 +29,16 @@ IT graduate transitioning into cloud engineering, with a focus on Microsoft Azur
 
 ## Certifications
 
-- ✅ **HashiCorp Terraform Associate (004)** — *In progress*
-- ✅ **Microsoft Certified: Azure Administrator (AZ-104)** — *Planned*
+- ✅ **HashiCorp Terraform Associate (004)** — 
+- ✅ **Microsoft Certified: Azure Administrator (AZ-104)** 
 
 ---
 
 ## Projects
 
-### Project Name — *Coming soon*
-Brief one-line description. Tech: Azure, Terraform.  
-🔗 [Repository](https://github.com/yourusername/project-name)
+### Live Weather Dashboard
+full-stack weather application deployed to Microsoft Azure with a complete CI/CD pipeline. Built from scratch to demonstrate end-to-end cloud engineering practices: containerization, Infrastructure as Code, automated deployment, and secret management.  
+🔗 [Repository]([https://github.com/yourusername/project-name](https://github.com/hamdani-al/weather-dashboard))
 
 *More projects added as the portfolio grows.*
 
@@ -46,7 +46,7 @@ Brief one-line description. Tech: Azure, Terraform.
 
 ## Education
 
-**BSc Applied Computing** — [University of Huddersfield], [2024]
+**BSc Applied Computing** — University of Huddersfield, 2024
 
 ---
 
