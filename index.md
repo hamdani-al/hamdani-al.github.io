@@ -29,9 +29,8 @@ IT graduate transitioning into cloud engineering, with a focus on Microsoft Azur
 
 ## Certifications
 
-- ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)** — [Year]
-- 🎯 **HashiCorp Terraform Associate (004)** — *In progress*
-- 📅 **Microsoft Certified: Azure Administrator (AZ-104)** — *Planned*
+- ✅ **HashiCorp Terraform Associate (004)** — *In progress*
+- ✅ **Microsoft Certified: Azure Administrator (AZ-104)** — *Planned*
 
 ---
 
@@ -47,7 +46,7 @@ Brief one-line description. Tech: Azure, Terraform.
 
 ## Education
 
-**BSc Information Technology** — [University Name], [Year]
+**BSc Applied Computing** — [University of Huddersfield], [2024]
 
 ---
 
