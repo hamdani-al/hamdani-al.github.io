@@ -3,8 +3,8 @@ layout: default
 ---
 
 📧 [kenwayabdullah@gmail.com](mailto:kenwayabdullah@gmail.com) · 
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ab997d/)) · 
-💻 [GitHub]([https://github.com/yourusername](https://github.com/hamdani-al))
+🔗 [LinkedIn]([https://linkedin.com/in/ab997d]#) · 
+💻 [GitHub]([https://github.com/hamdani-al])
 
 ---
 
