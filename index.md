@@ -43,9 +43,7 @@ full-stack weather application deployed to Microsoft Azure with a complete CI/CD
 
 ## Education
 
-**BSc(Hons) Applied Computing** — University of Huddersfield
-
-Huddersfield, UK, 2024
+**BSc(Hons) Applied Computing** — University of Huddersfield, 2024
 
 ---
 
@@ -57,8 +55,3 @@ Working through a structured Azure-focused roadmap: advanced Azure certification
 
 ---
 
-## 📄 Download CV
-
-Prefer a PDF? [**Download my CV here**](CV.pdf){:target="_blank"}
-
-*Last updated: April 2026*
