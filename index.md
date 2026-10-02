@@ -43,7 +43,9 @@ full-stack weather application deployed to Microsoft Azure with a complete CI/CD
 
 ## Education
 
-**BSc(Hons) Applied Computing** — University of Huddersfield, 2024
+**BSc(Hons) Applied Computing** — 
+
+###University of Huddersfield, 2024
 
 ---
 
