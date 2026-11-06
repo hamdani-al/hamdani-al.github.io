@@ -32,6 +32,15 @@ IT graduate transitioning into cloud engineering, with a focus on Microsoft Azur
 
 ---
 
+## Education
+
+**BSc(Hons) Applied Computing** — 
+
+*University of Huddersfield, 2024* —
+*Huddersfield, UK*
+
+---
+
 ## Projects
 
 ### Live Weather Dashboard
@@ -42,14 +51,7 @@ full-stack weather application deployed to Microsoft Azure with a complete CI/CD
 
 ---
 
-## Education
 
-**BSc(Hons) Applied Computing** — 
-
-*University of Huddersfield, 2024* —
-*Huddersfield, UK*
-
----
 
 ## Currently Learning
 
