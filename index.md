@@ -17,7 +17,7 @@ IT graduate transitioning into cloud engineering, with a focus on Microsoft Azur
 
 ## Skills
 
-**Cloud:** Microsoft Azure , 
+**Cloud:** Microsoft Azure
 **Infrastructure as Code:** Terraform 
 **Containers & CI/CD:** Docker, GitHub Actions 
 **Languages & OS:** Python (foundational), Bash, Linux  
@@ -27,7 +27,7 @@ IT graduate transitioning into cloud engineering, with a focus on Microsoft Azur
 
 ## Certifications
 
-- ✅ **HashiCorp Terraform Associate (004)** — 
+- ✅ **HashiCorp Terraform Associate (004)** 
 - ✅ **Microsoft Certified: Azure Administrator (AZ-104)** 
 
 ---
