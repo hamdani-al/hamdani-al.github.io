@@ -2,6 +2,7 @@
 layout: default
 ---
 
+📍 Manchester, UK · 
 📧 [kenwayabdullah@gmail.com](mailto:kenwayabdullah@gmail.com) · 
 🔗 [LinkedIn]([https://linkedin.com/in/ab997d]#) · 
 💻 [GitHub]([https://github.com/hamdani-al])
@@ -57,4 +58,3 @@ Working through a structured Azure-focused roadmap: advanced Azure certification
 ---
 
 ---
-
