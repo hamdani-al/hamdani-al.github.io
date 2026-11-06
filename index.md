@@ -17,9 +17,9 @@ IT graduate transitioning into cloud engineering, with a focus on Microsoft Azur
 
 ## Skills
 
-**Cloud:** Microsoft Azure (AZ-900 certified), Azure Resource Manager  
-**Infrastructure as Code:** Terraform (in progress)  
-**Containers & CI/CD:** Docker, GitHub Actions (learning roadmap)  
+**Cloud:** Microsoft Azure , 
+**Infrastructure as Code:** Terraform 
+**Containers & CI/CD:** Docker, GitHub Actions 
 **Languages & OS:** Python (foundational), Bash, Linux  
 **Tools:** Git, GitHub, VS Code
 
